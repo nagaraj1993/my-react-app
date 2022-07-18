@@ -1,4 +1,4 @@
-### DevOps for FrontEnd Engineers
+### DevOps for Cloud Engineer
 
 #### This is a demo application I used in the 5 part series of article I wrote on dev.to to train my team about DevOps practices.
 
